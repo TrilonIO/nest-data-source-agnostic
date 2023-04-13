@@ -19,7 +19,6 @@
 
 Official NestJS consulting & support 🐈
 
-- Check out **[Trilon.io](https://Trilon.io)** for more info! Twitter [@Trilon_io](http://www.twitter.com/Trilon_io)
+- Check out **[Trilon.io](https://Trilon.io)** for more info! 
 - Contact us at <hello@trilon.io>, and let's talk about your projects needs.
-
 - Twitter: [@Trilon_io](http://twitter.com/Trilon_io)
